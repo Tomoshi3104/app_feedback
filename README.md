@@ -1,2 +1,2 @@
 # app_feedback
-collect feedback from users
+this repository is made to collect feedback from app users
